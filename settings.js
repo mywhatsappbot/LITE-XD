@@ -33,7 +33,7 @@ module.exports = {
     AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
     // make true if you want auto reply on status 
 
-    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY MALVIN XD 😆*",
+    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY KAVIDU-MD 😆*",
     // set the auto reply message on status reply  
 
     WELCOME: process.env.WELCOME || "true",
@@ -55,16 +55,16 @@ module.exports = {
     // add img for alive msg
 
     LIVE_MSG: process.env.LIVE_MSG || 
-`> ʙᴏᴛ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ
+`> HI IM ALIVE NOW 🧬
 
-ᴋᴇᴇᴘ ᴜsɪɴɢ ✦ʟɪᴛᴇ xᴅ✦ ғʀᴏᴍ ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ ɪɴᴄ⚡
+Owner- KAVIDU INDUWARA⚡
 
-*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ*
+*© ᴡʜᴀᴛꜱᴀᴘᴘ KAVIDU - MD*
 
 > ɢɪᴛʜᴜʙ : github.com/XdKing2/LITE-XD`,
     // add alive msg here 
 
-    STICKER_NAME: process.env.STICKER_NAME || "ᴍᴀʟᴠɪɴ-xᴅ",
+    STICKER_NAME: process.env.STICKER_NAME || "KAVIDU-MD ",
     // type sticker pack name 
 
     CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
@@ -76,13 +76,13 @@ module.exports = {
     DELETE_LINKS: process.env.DELETE_LINKS || "false",
     // automatic delete links without removing member 
 
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "26371475XXXX",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "94767054052",
     // add your bot owner number
 
-    OWNER_NAME: process.env.OWNER_NAME || "ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ",
+    OWNER_NAME: process.env.OWNER_NAME || "KAVIDU INDUWARA",
     // add bot owner name
 
-    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ*",
+    DESCRIPTION: process.env.DESCRIPTION || "*© ENJOY WHATSAPP BOT*",
     // add bot owner description  
 
     READ_MESSAGE: process.env.READ_MESSAGE || "false",

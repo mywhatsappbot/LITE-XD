@@ -3,7 +3,7 @@ const config = require('../settings');
 
 lite({
     pattern: "owner",
-    react: "✅", 
+    react: "👾", 
     desc: "Get owner number",
     category: "main",
     filename: __filename

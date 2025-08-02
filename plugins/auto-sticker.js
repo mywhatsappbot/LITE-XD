@@ -21,8 +21,8 @@ async (conn, mek, m, { from, body }) => {
 
                     await conn.sendMessage(from, {
                         sticker: stickerBuffer,
-                        packname: 'MALVIN-XD',
-                        author: 'ʟᴏʀᴅ ᴍᴋ'
+                        packname: 'KAVIDU-MD',
+                        author: 'KAVIDU-MD'
                     }, { quoted: mek });
                 } else {
                     console.warn(`Sticker not found: ${stickerPath}`);

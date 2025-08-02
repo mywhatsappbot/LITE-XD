@@ -125,7 +125,7 @@ async function connectToWA() {
 
           let up = `*Hᴇʟʟᴏ ᴛʜᴇʀᴇ kavidu-md ᴄᴏɴɴᴇᴄᴛᴇᴅ! 👋🏻* 
 
-*ᴋᴇᴇᴘ ᴏɴ ᴜsɪɴɢ ᴍᴀʟᴠɪɴ ᴍᴏᴅs🚩* 
+*ᴋᴇᴇᴘ ᴏɴ ᴜsɪɴɢ 𝚔𝚊𝚟𝚒𝚍𝚞 𝚖𝚍 ᴍᴏᴅs🚩* 
 
 > sᴜʙsᴄʀɪʙᴇ ʏᴛ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴛᴜᴛᴏʀɪᴀʟs
 comeing soon
@@ -134,10 +134,10 @@ comeing soon
 > - ʏᴏᴜ ᴄᴀɴ ᴄʜᴀɴɢᴇ ᴜʀ ᴘʀᴇғɪx ᴜsɪɴɢ ᴛʜᴇ .ᴘʀᴇғɪx ᴄᴏᴍᴍᴀɴᴅ
 
 > ᴅᴏɴᴛ ғᴏʀɢᴇᴛ ᴛᴏ sʜᴀʀᴇ, sᴛᴀʀ & ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ⬇️ 
-https://github.com/XdKing2/LITE-XD
+උබට දෙන්න පිස්සු නැ 😂
 
 > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ kavidu induwara 👾`;
-    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/lm4a0b.jpg` }, caption: up })
+    conn.sendMessage(conn.user.id, { image: { url: `https://i.ibb.co/Z12ByPbd/9307.jpg` }, caption: up })
 
           const channelJid = "120363422383085384@newsletter"
           try {

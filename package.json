@@ -1,9 +1,9 @@
 
 
 {
-  "name": "lite-xd",
+  "name": "KAVIDU-MD",
   "version": "0.0.5",
-  "description": "A WhatsApp Bot Created By Malvin King",
+  "description": "A WhatsApp Bot Created By Kavidu induwara",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name lite",

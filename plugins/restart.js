@@ -3,7 +3,7 @@ const { sleep } = require("../lib/functions");
 
 lite({  
     pattern: "restart",  
-    desc: "Restart Lite xd",  
+    desc: "Restart KAVIDU-MD",  
     category: "owner",  
     filename: __filename  
 },  

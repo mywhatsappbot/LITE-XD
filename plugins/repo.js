@@ -12,7 +12,7 @@ lite({
     category: "main",
     filename: __filename
 }, async (conn, mek, m, { from, reply }) => {
-    const githubRepoURL = 'https://github.com/XdKing2/LITE-XD';
+    const githubRepoURL = 'මං බොට් හැදුවෙ මට යකො';
 
     try {
         const [, username, repoName] = githubRepoURL.match(/github\.com\/([^/]+)\/([^/]+)/);
@@ -40,8 +40,8 @@ lite({
             forwardingScore: 999,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-                newsletterJid: '120363402507750390@newsletter',
-                newsletterName: 'Malvin Tech',
+                newsletterJid: '120363422383085384@newsletter',
+                newsletterName: 'KAVIDU MD',
                 serverMessageId: 143
             }
         };

@@ -10,7 +10,7 @@ function replaceYouTubeID(url) {
 }
 
 lite({
-    pattern: "song",
+    pattern: "song2",
     alias: ["s","play"],
     react: "🎵",
     desc: "Download Ytmp3",

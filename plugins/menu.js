@@ -7,7 +7,7 @@ const axios = require('axios');
 
 lite({
     pattern: "menu",
-    react: "🤖",
+    react: "📂",
     alias: ["allmenu"],
     desc: "Get command list",
     category: "main",
@@ -86,8 +86,8 @@ ${menu.fun || '│ (No commands found)'}
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363402507750390@newsletter',
-                        newsletterName: 'Lite XD',
+                        newsletterJid: '120363422383085384@newsletter',
+                        newsletterName: 'KAVIDU-MD',
                         serverMessageId: 143
                     }
                 }
